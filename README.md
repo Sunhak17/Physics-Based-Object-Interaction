@@ -1,4 +1,4 @@
-# Physics-Based Object Interaction (Unity Assignment)
+# Physics-Based Object Interaction
 
 ## Overview
 
@@ -30,4 +30,5 @@ This Unity project demonstrates physics-based object interaction using Rigidbody
 
 - Uses `Rigidbody.AddForce` for movement, jumping, wind, and bounce
 - Uses `OnCollisionEnter` and `OnTriggerEnter` for collision/trigger events
+
 - All interactive objects have colliders and rigidbodies for realistic physics
