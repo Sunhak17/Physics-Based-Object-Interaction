@@ -15,7 +15,8 @@ This Unity project demonstrates physics-based object interaction using Rigidbody
 - **WASD**: Move player
 - **Space**: Jump
 - **E**: Interact (pick up plug, press button, etc.)
-- **Arrow Keys**: Rotate camera (if enabled)
+- **k**: Kick the ball
+- **Arrow Keys**: Rotate camera 
 
 ## Key Scripts
 
@@ -32,3 +33,4 @@ This Unity project demonstrates physics-based object interaction using Rigidbody
 - Uses `OnCollisionEnter` and `OnTriggerEnter` for collision/trigger events
 
 - All interactive objects have colliders and rigidbodies for realistic physics
+
